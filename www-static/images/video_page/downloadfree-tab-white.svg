@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="21px" viewBox="0 0 19 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Downloadfree</title>
+    <g id="Video" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Watch-Page-UI" transform="translate(-301.000000, -362.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Icons/Downloadfree" transform="translate(301.000000, 362.960000)">
+                <path d="M13.7373737,18.3333333 L13.7373737,20 L5.15151515,20 L5.15151515,18.3333333 L13.7373737,18.3333333 Z M13.7373737,15 L5.15151515,15 L5.15151515,16.6666667 L13.7373737,16.6666667 L13.7373737,15 Z M5.15151515,9.16666667 L5.15151515,13.3333333 L13.7373737,13.3333333 L13.7373737,9.16666667 L18.8888889,9.16666667 L9.44444444,0 L0,9.16666667 L5.15151515,9.16666667 Z" id="Download" transform="translate(9.444444, 10.000000) scale(-1, -1) translate(-9.444444, -10.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
