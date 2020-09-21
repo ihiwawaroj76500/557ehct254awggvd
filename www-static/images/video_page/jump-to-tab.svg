@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="18px" viewBox="0 0 23 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Jump to</title>
+    <g id="Video" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Watch-Page-UI" transform="translate(-294.000000, -362.000000)" fill="#C9C9C9" fill-rule="nonzero">
+            <g id="Jump-to" transform="translate(294.000000, 362.000000)">
+                <path d="M10.1545851,0.5 L10.1545851,4.37437103 C13.7703821,6.8733898 17.1457972,9.20673752 17.1457972,9.20673752 C17.1457972,9.20673752 13.7703821,11.5407917 10.1545851,14.0399871 L10.1545851,17.9138283 L22.75,9.20673752 L10.1545851,0.5 Z M12.8452383,9.20673752 L0.25,17.9138283 L0.25,0.5 L12.8452383,9.20673752 Z" id="jumpto"></path>
+            </g>
+        </g>
+    </g>
+</svg>
